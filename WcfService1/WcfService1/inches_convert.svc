@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WcfService1.inches_toYards" CodeBehind="inches_convert.svc.cs" %>
